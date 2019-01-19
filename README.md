@@ -9,3 +9,4 @@ Aggregate and generate data for deployments
  * Show if any of the PR diffs include a migration
  * Aggregate who wants the deployment to go forward
  * Have a 1-click deploy?
+ * Get "sign-offs" on deploying or block deploy
